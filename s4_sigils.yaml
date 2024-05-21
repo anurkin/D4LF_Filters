@@ -1,12 +1,14 @@
 Sigils:
-#For a good baseline of xp and difficulty, update minTier to 31 levels below your character level
+# For a good baseline of xp and difficulty, update minTier to 31 levels below your character level
   minTier: 1
-#You only need level 41 to get 925 gear drops, but the Pit requires completing a 46 nightmare dungeon. 
+# You only need level 41 to get 925 gear drops, but the Pit requires completing a 46 nightmare dungeon. 
   maxTier: 100
   blacklist:
-    - endless_gates
+# affixes
     - armor_breakers
     - resistance_breakers
+# locations
+    - endless_gates
     - charnel_house
     - prison_of_caldeum
     - inferno
@@ -28,7 +30,7 @@ Sigils:
     - lubans_rest
     - tomb_of_the_saints
   whitelist:
-    #GlyphXp
+#GlyphXp
     - komdor_temple
     - aldurwood
     - tormented_ruins
@@ -43,13 +45,13 @@ Sigils:
     - howling_warren
     - collapsed_vault
     - faceless_shrine
-    #CHARXP
-#Removed some locations due to low Glyph XP Tier Rank
-#    - lights_watch
-#    - champions_demise
+#CHARXP
     - guulrahn_canals
     - mariners_refuge
     - steadfast_barracks
-#    - sanguine_chapel
     - uldurs_cave
     - akkhans_grasp
+#Removed some locations due to low Glyph XP Tier Rank
+#    - lights_watch
+#    - champions_demise
+#    - sanguine_chapel

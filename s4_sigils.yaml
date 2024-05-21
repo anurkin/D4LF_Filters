@@ -30,7 +30,7 @@ Sigils:
     - lubans_rest
     - tomb_of_the_saints
   whitelist:
-#GlyphXp
+# GlyphXp
     - komdor_temple
     - aldurwood
     - tormented_ruins
@@ -45,13 +45,13 @@ Sigils:
     - howling_warren
     - collapsed_vault
     - faceless_shrine
-#CharXP
+# CharXP
     - guulrahn_canals
     - mariners_refuge
     - steadfast_barracks
     - uldurs_cave
     - akkhans_grasp
-#Removed some locations due to low Glyph XP Tier Rank
+# Removed some locations due to low Glyph XP Tier Rank
 #    - lights_watch
 #    - champions_demise
 #    - sanguine_chapel

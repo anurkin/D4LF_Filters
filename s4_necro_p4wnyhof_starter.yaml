@@ -10,7 +10,7 @@ Affixes:
 # All classes want a 925 Weapon. The Offhand should be 925 whenever possible if your class scales with off-hand weapon damage.
   - Helm:
       itemType: helm
-      minPower: 725
+      minPower: 780
       affixPool:
         - count:
             - [ intelligence ]
@@ -20,7 +20,7 @@ Affixes:
 
   - Armor:
       itemType: [ chest armor ]
-      minPower: 725
+      minPower: 780
       affixPool:
         - count:
             - [ armor ]
@@ -30,7 +30,7 @@ Affixes:
 
   - Gloves:
       itemType: gloves
-      minPower: 725
+      minPower: 780
       affixPool:
         - count:
             - [ critical_strike_chance ]
@@ -40,7 +40,7 @@ Affixes:
 
   - Pants:
       itemType: pants
-      minPower: 725
+      minPower: 780
       affixPool:
         - count: 
             - [ resistance_to_all_elements ]
@@ -50,7 +50,7 @@ Affixes:
 
   - Boots:
       itemType: boots
-      minPower: 725
+      minPower: 780
       inherentPool:
         - count:
             - maximum_evade_charges
@@ -65,7 +65,7 @@ Affixes:
 
   - Weapon:
       itemType: two-handed scythe
-      minPower: 725
+      minPower: 780
       affixPool:
         - count:
             - [ intelligence ]
@@ -75,7 +75,7 @@ Affixes:
 
   - Amulet:
       itemType: amulet
-      minPower: 725
+      minPower: 780
       affixPool:
         - count:
             - [ cooldown_reduction ]
@@ -85,7 +85,7 @@ Affixes:
 
   - Ring:
       itemType: ring
-      minPower: 725
+      minPower: 780
       affixPool:
         - count:
             - [ critical_strike_chance ]

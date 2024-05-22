@@ -71,7 +71,7 @@ Affixes:
         - count:
             - [ intelligence, 170]
             - [ critical_strike_damage, 90]
-            - [ maximum_life, 1650]
+            - [ maximum_life, 1675]
           minCount: 2
 
   - Amulet:
@@ -81,7 +81,7 @@ Affixes:
         - count:
             - [ critical_strike_chance, 7.0]
             - [ to_hellbent_commander, 1]
-            - [ maximum_life, 800]
+            - [ maximum_life, 690]
           minCount: 2
 
   - Ring:
@@ -91,7 +91,7 @@ Affixes:
         - count:
             - [ critical_strike_chance, 5.5]
             - [ critical_strike_damage, 45]
-            - [ attack_speed, 9.0]
+            - [ attack_speed, 8.0]
           minCount: 2
 
   - Ring:
@@ -100,6 +100,6 @@ Affixes:
       affixPool:
         - count:
             - [ critical_strike_chance, 5.5]
-            - [ attack_speed, 9.0]
+            - [ attack_speed, 8.0]
             - [ maximum_life, 800]
           minCount: 2

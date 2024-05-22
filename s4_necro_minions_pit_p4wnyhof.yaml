@@ -81,7 +81,7 @@ Affixes:
         - count:
             - [ critical_strike_chance, 7.0]
             - [ to_hellbent_commander, 1]
-            - [ maximum_life, 690]
+            - [ maximum_life, 800]
           minCount: 2
 
   - Ring:
